@@ -5,6 +5,7 @@ This repository contains a personal project using anonymized synthetic data to a
 本リポジトリは、匿名化サンプルデータを用いた離職予測モデルの個人プロジェクトです。
 
 ==================================================
+
 Project Files / プロジェクト構成
 
 Employee-Yuu.ipynb
@@ -12,12 +13,14 @@ Employee-Yuu.ipynb
 Employee-Yuu.pdf
 
 ==================================================
+
 Purpose / 目的
 
 Predict employee attrition and support early intervention.
 離職リスクを可視化し、早期対応につなげること。
 
 ==================================================
+
 Contents / 分析内容
 
 ・離職率の基礎統計と相関分析
@@ -27,6 +30,7 @@ Contents / 分析内容
 ・Accuracy／Recall／AUC で評価
 
 ==================================================
+
 Key Findings / 結果
 
 ・ロジスティック回帰が最も安定した性能
@@ -34,6 +38,7 @@ Key Findings / 結果
 ・施策案：柔軟な勤務形態、ストレスケア強化 など
 
 ==================================================
+
 Future Work / 今後の改善
 
 ・SMOTE でデータバランス調整
@@ -42,9 +47,11 @@ Future Work / 今後の改善
 ・ダッシュボード化
 
 ==================================================
+
 Colab Links / Colab で開く
 
 Employee-Yuu.ipynb
+
 https://colab.research.google.com/github/Yuu13329/employee-attrition-analysis/blob/main/Employee-Yuu.ipynb
 
 ==================================================
