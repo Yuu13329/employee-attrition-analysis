@@ -47,9 +47,6 @@ Colab Links / Colab で開く
 Employee-Yuu.ipynb
 https://colab.research.google.com/github/Yuu13329/employee-attrition-analysis/blob/main/Employee-Yuu.ipynb
 
-モデル構築と評価指標_.ipynb
-https://colab.research.google.com/github/Yuu13329/employee-attrition-analysis/blob/main/%E3%83%A2%E3%83%86%E3%82%99%E3%83%AB%E6%A7%8B%E7%AF%89%E3%81%A8%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99_.ipynb
-
 ==================================================
 Note / 備考
 
