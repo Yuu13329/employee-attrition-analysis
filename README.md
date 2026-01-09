@@ -45,6 +45,7 @@ Future Work / 今後の改善
 Colab Links / Colab で開く
 
 Employee-Yuu.ipynb
+
 https://colab.research.google.com/github/Yuu13329/employee-attrition-analysis/blob/main/Employee-Yuu.ipynb
 
 ==================================================
