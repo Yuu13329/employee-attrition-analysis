@@ -9,7 +9,7 @@ This repository contains a personal project using anonymized synthetic data to a
 Project Files / プロジェクト構成
 
 Employee-Yuu.ipynb
-モデル構築と評価指標_.ipynb
+
 Employee-Yuu.pdf
 
 ==================================================
@@ -17,6 +17,7 @@ Employee-Yuu.pdf
 Purpose / 目的
 
 Predict employee attrition and support early intervention.
+
 離職リスクを可視化し、早期対応につなげること。
 
 ==================================================
